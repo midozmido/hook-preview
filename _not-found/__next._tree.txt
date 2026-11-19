@@ -1,4 +1,4 @@
-:HL["/hook-preview/_next/static/chunks/28_vh7npb5ysz.css","style"]
+:HL["/hook-preview/_next/static/chunks/2cl_wu5icthwi.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"0gzveu2hMp0XhDxfQSLsi","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"3xZ712b6BLyy_QUPhF6Hu","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
